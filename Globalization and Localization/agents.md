@@ -16,3 +16,4 @@ Globalization and Localization
 - Localize spreadsheet by implementing subtotal and grand total label localization in other languages using a workbook loaded in XLSX format.
 - Localize spreadsheet by exploring possible usage scenarios for subtotal and grand total label localization using a workbook loaded in XLSX format.
 - Localize spreadsheet by running sample code for subtotal and grand total label localization using a workbook loaded in XLSX format.
+- Localize spreadsheet by using GlobalizationSettings class to customize subtotal labels and other label of pie chart using a workbook loaded in XLSX format.
