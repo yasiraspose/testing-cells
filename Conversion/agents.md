@@ -6,4 +6,4 @@ Conversion
 
 ## Tasks Implemented
 
-- Convert an Excel workbook to XPS using XLSX as the input and XPS as the output.
+- Convert an Excel workbook to PDF using XLSX as the input and PDF as the output.
