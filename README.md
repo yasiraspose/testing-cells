@@ -37,4 +37,3 @@ Each example is a **complete .NET console program** demonstrating a specific Asp
 ---
 
 Generated automatically by the Aspose.Cells Product Agent.
-# testing-cells
