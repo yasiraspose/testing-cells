@@ -7,3 +7,4 @@ Comments and Notes
 ## Tasks Implemented
 
 - Remove Threaded Comments in a workbook loaded in XLSX format.
+- Remove Threaded Comments with Excel in a workbook loaded in XLSX format.
