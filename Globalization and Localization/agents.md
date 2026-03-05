@@ -1,0 +1,9 @@
+# Globalization and Localization Examples
+
+This folder contains **Aspose.Cells for .NET** examples related to:
+
+Globalization and Localization
+
+## Tasks Implemented
+
+- Localize spreadsheet by implementing Cell.FormulaLocal similar to Excel VBA Range.FormulaLocal using a workbook loaded in XLSX format.
